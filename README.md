@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# p
+# REPOSITORY 
 =======
-# ZAIN AHMAD FAHREZI PORTFOLIO PROJECT
+# TOSO DEVELOPER PORTFOLIO PROJECT
 
 This is a React project developed using Vite — a modern build tool known for its high performance, Hot Module Replacement (HMR) support, and fast development time.
 
